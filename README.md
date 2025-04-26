@@ -35,7 +35,7 @@
   <a href="https://www.linkedin.com/in/hussein-barish-358b3829a" target="_blank">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="40" alt="linkedin logo"  />
   </a>
-  <a href="hussinbarish7@gmail.com" target="_blank">
+  <a href="https://mail.google.com/mail/u/0/hussinbarish7@gmail.com" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="40" alt="gmail logo"  />
   </a>
   <a href="https://www.instagram.com/hussein_barish?igsh=MWZtMndoOGVmejRlMA==" target="_blank">
@@ -47,7 +47,7 @@
 ###
 
 <div align="center">
-  <img height="200" src="https://i.imgflip.com/65efzo.gif"  />
+  <img height="200" src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExeTJ2NjlxNHYzbDZuNm0wZnR5b3R6M3g2bmo3MXZnd2J1aXl0bzZpeCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/7VzgMsB6FLCilwS30v/giphy.gif"  />
 </div>
 
 ###
