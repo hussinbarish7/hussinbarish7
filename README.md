@@ -1,52 +1,36 @@
-<h1 align="left">Hi 👋! My name is Hussein Barish</h1>
+<img align="right" src="https://raw.githubusercontent.com/mohamedelkashef15/mohamedelkashef15/main/github-profile.png" width="30%">
+<h1>
+  Hi There I'm Hussein Barish 
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
+</h1>
+<p>
+I'm a software developer with a strong passion for creating visually appealing and user-friendly websites. 
+</p>
 
-###
+- 👨‍💻 I’m currently working on web development technologies like JavaScript & React.
+- 📚 I’m currently learning about Frontend and Backend technologies.
+  
+- 📫 Social links
+<p>
+<a href="[https://www.facebook.com/mohamedelkashef15/](https://www.facebook.com/share/1CQ3RdG394/)"><img
+    src="https://img.shields.io/badge/-Facebook-3b5998?style=flat&logo=facebook&logoColor=white" alt="Facebook"></a>
+<a href="[https://www.linkedin.com/in/mohamedelkashef/](https://www.linkedin.com/in/hussein-barish-358b3829a)"><img
+    src="https://img.shields.io/badge/-Linkedin-0072b1?style=flat&logo=linkedin&logoColor=white" alt="Linkedin"></a>
+<a href="[https://www.instagram.com/mohamedelkashef15/](https://www.instagram.com/hussein_barish?igsh=MWZtMndoOGVmejRlMA==)"><img
+    src="https://img.shields.io/badge/-Instagram-d62976?style=flat&logo=instagram&logoColor=white"
+    alt="Facebook"></a>
+</p>
 
-<h2 align="left">Frontend developer with React and Next.js</h2>
+### 🛠 &nbsp;Technologies that I work with
+![HTML5](https://img.shields.io/badge/-HTML5-000000?style=flat&logo=html5)
+![CSS](https://img.shields.io/badge/-CSS-000000?style=flat&logo=css3)
+![JavaScript](https://img.shields.io/badge/-JavaScript-000000?style=flat&logo=javascript)
+![TypeScript](https://img.shields.io/badge/-TypeScript-000000?style=flat&logo=typescript)
+![ReactJs](https://img.shields.io/badge/-ReactJs-000000?style=flat&logo=react)
 
-###
-
-<h3 align="left">Languages</h3>
-
-###
-
-<br clear="both">
-
-<img align="right" height="119" src="https://img.freepik.com/premium-vector/programming-coding-icon-set-software-development-icon-collection-programmer-developer-symbol_745851-79.jpg"  />
-
-###
-
-<br clear="both">
-
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="50" alt="html5 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="50" alt="css3 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="50" alt="javascript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="50" alt="typescript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="50" alt="react logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="50" alt="python logo"  />
-</div>
-
-###
-
-<br clear="both">
-
-<div align="left">
-  <a href="https://www.facebook.com/share/1CQ3RdG394/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Facebook&logo=facebook&label=&color=1877F2&logoColor=white&labelColor=&style=for-the-badge" height="30" alt="facebook logo"  />
-  </a>
-  <a href="https://www.linkedin.com/in/hussein-barish-358b3829a" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="30" alt="linkedin logo"  />
-  </a>
-  <a href="https://mail.google.com/mail/u/0/#inbox?compose=GTvVlcRwRQSWTfwsQgjHrcQsknrdWZSVqjnvdBjxqGLJtjGznrwTbPtjSMgTdsnzPXKWGXflphsfk" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="30" alt="gmail logo"  />
-  </a>
-  <a href="https://www.instagram.com/hussein_barish?igsh=MWZtMndoOGVmejRlMA==" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="30" alt="instagram logo"  />
-  </a>
-</div>
+<!-- ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mohamedelkashef15&hide_progress=true) -->
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mohamedelkashef15&layout=compact)
+<br>
+<a href="https://komarev.com/ghpvc/?username=mohamedelkashef15&style=for-the-badge">
+    <img src="https://komarev.com/ghpvc/?username=mohamedelkashef15&style=for-the-badge">
+</a>
