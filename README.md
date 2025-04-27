@@ -2,17 +2,11 @@
 
 ###
 
-<h3 align="left">Languages</h3>
-
-###
-
 <h2 align="left">Frontend developer with React and Next.js</h2>
 
 ###
 
-<br clear="both">
-
-<img align="right" height="100" src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExMWJjejZ1YjNhMDlmcDJyOTVidTQ1b2RienAwdWdoZTB0ZW43ZGM2OCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/7VzgMsB6FLCilwS30v/giphy.gif"  />
+<h3 align="left">Languages</h3>
 
 ###
 
@@ -50,6 +44,10 @@
     <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="30" alt="instagram logo"  />
   </a>
 </div>
+
+###
+
+<img align="right" height="100" src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExMWJjejZ1YjNhMDlmcDJyOTVidTQ1b2RienAwdWdoZTB0ZW43ZGM2OCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/7VzgMsB6FLCilwS30v/giphy.gif"  />
 
 ###
 
