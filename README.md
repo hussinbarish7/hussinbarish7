@@ -47,7 +47,7 @@
 
 ###
 
-<img align="right" height="100" src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExMWJjejZ1YjNhMDlmcDJyOTVidTQ1b2RienAwdWdoZTB0ZW43ZGM2OCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/7VzgMsB6FLCilwS30v/giphy.gif"  />
+<img align="right" height="100" src="https://img.freepik.com/premium-vector/programming-coding-icon-set-software-development-icon-collection-programmer-developer-symbol_745851-79.jpg"  />
 
 ###
 
